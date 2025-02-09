@@ -12,7 +12,7 @@ Ce projet académique, réalisé en collaboration avec **Marwan DRISSI**, vise �
 │── 📁 data/ # Données sources et fichiers de transformation
 │── 📁 etl/ # Scripts et processus Talend
 │── 📁 powerbi/ # Rapports et dashboards Power BI
-│── 📁 docs/ # Présentation et documentation
+│── 📁 Presentation / # Présentation 
 │── README.md # Description du projet
 
 ## 📊 Dashboards créés  
